@@ -1,8 +1,5 @@
 
 # Wazuh to Jira Alert Automation via n8n
-
-This repository contains the setup guide, logic, and configuration for automating security alert ticketing. It captures high-severity alerts from Wazuh, processes them using n8n, and automatically creates actionable tickets in Jira.
-
 ---
 
 ## 🧠 System Logic & Workflow
